@@ -1,2 +1,2 @@
-# Simple-Website-
+# First-Website-in-React
 React project 
